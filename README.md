@@ -26,7 +26,7 @@ I am an innovative **AI Engineer, AI Solution Architect, and AI Project Manager*
 - Web/Mobile development  
 - Automation and Data Engineering  
 
-Currently serving as **Application Analyst & AI Lead at StaffDocs (USA)**, where I design AI pipelines, automation systems, healthcare analysis engines, and cloud architectures using **Python, Azure Functions, Azure ML, and LLM Agents**.
+I worked as **Application Analyst & AI Lead at StaffDocs (USA)**, where I design AI pipelines, automation systems, healthcare analysis engines, and cloud architectures using **Python, Azure Functions, Azure ML, and LLM Agents**.
 
 Pursuing a **PhD at Helwan University** focusing on **MSHR++**, a novel architecture combining **Small Language Models (SLMs)** with **Task-Ready Networks (TRNs)** for low-resource multi-agent environments.
 
