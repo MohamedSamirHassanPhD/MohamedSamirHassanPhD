@@ -222,15 +222,6 @@ Cross-functional leadership · Product strategy · Technical supervision
 ## 🌍 Languages  
 Arabic (Native) · English (Advanced) · German (Beginner)
 
----
-
-## 📌 Featured Repositories (Updating Soon)
-- `ai-emotion-classroom-analysis`  
-- `mohamed-samir-portfolio`  
-- `unity-vr-demo-hall`  
-- `hmm-viterbi-python-implementation`  
-- `yolov8-custom-education-dataset`  
-- `touchdesigner-video-light-painting`
 
 ---
 
