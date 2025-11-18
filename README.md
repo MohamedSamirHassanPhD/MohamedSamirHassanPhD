@@ -130,7 +130,7 @@ Egyptian Academy of Computers & IS (2009 – 2013)
 
 - **Project Management Fundamentals** — Microsoft (Jan 2024)  
   Credential ID: MODCDD1VOFCL  
-  *(No link provided in CV)*
+  
 
 - **PMP® Certification (In Progress)** — Project Management Institute (PMI)
 
@@ -142,10 +142,10 @@ Egyptian Academy of Computers & IS (2009 – 2013)
   https://www.linkedin.com/learning/certificates/988e5c0992d66f6847516c42103025aaa0d303a7ed06ce204c4c7c4691bd2125  
 
 - **Microsoft Azure AI Essentials: Workloads and Machine Learning on Azure** — Microsoft (May 2025)  
-  *(No link provided in CV)*
+
 
 - **Vibe Coding with Cursor AI** — Cursor (May 2025)  
-  *(No link provided in CV)*
+
 
 - **Agentic AI and AI Agents: A Primer for Leaders** — Vanderbilt University (Mar 2025)  
   Certificate: https://www.coursera.org/account/accomplishments/records/JDTLZLYYDZQ3  
@@ -169,14 +169,14 @@ Egyptian Academy of Computers & IS (2009 – 2013)
   Certificate: https://www.coursera.org/account/accomplishments/records/LANVE5QMZU3I  
 
 - **Getting Started with Zoho CRM for Sales Reps** — Zoho Corporation (Sep 2025)  
-  *(No link provided in CV)*
+
 
 - **Fundamentals of Quantitative Modeling** — University of Pennsylvania (2024)  
   Credential ID: IXCE3CNDBCYE  
   Certificate: https://www.coursera.org/account/accomplishments/certificate/IXCE3CNDBCYE  
 
 - **Certificate of Contribution** — French University of Egypt  
-  *(No link provided in CV)*
+
 
 
 ---
