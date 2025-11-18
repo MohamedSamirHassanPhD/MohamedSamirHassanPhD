@@ -2,7 +2,6 @@
 **Principal Architect – AI Solutions | AI Lead | Metaverse & Immersive Technology Expert**  
 Specialist in **AI Solutions, Machine Learning, Cloud, 3D, XR, VR/AR, Metaverse, and Hologram Technologies**
 
-📍 **Open for Global Opportunities — Relocation Ready**
 
 ---
 
