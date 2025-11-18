@@ -106,18 +106,78 @@ Egyptian Academy of Computers & IS (2009 – 2013)
 
 ---
 
-## 🏅 Certifications (Selected & Verified)  
-- Google AI Essentials — https://www.coursera.org/account/accomplishments/records/AI8PI1SXGYA1  
-- Planning Projects — UC Irvine — https://www.coursera.org/account/accomplishments/certificate/0KKNEXZBUQCT  
-- Agile Project Management — Google — https://www.coursera.org/account/accomplishments/certificate/ZV9XD0BW3CUE  
-- Product Management — IBM — https://www.coursera.org/account/accomplishments/certificate/MBV90QZUEACH  
-- Agile + Design Thinking — UVA — https://www.coursera.org/account/accomplishments/verify/B1F995Q0JYQV  
-- Digital Product Management Specialization — UVA — https://www.coursera.org/specializations/uva-darden-digital-product-management  
-- Microsoft Azure AI Essentials — Microsoft  
-- Vibe Coding with Cursor AI — Cursor  
-- What is the Metaverse? — Meta  
-- Data Science & AI for Healthcare — NASBA  
-- PMP Certification — *In Progress*
+## 🏅 Certifications (Selected & Verified)
+
+- **Google AI Essentials** — Google (Jan 2025)  
+  Credential ID: AI8PI1SXGYA1  
+  Certificate: https://www.coursera.org/account/accomplishments/records/AI8PI1SXGYA1  
+
+- **Initiating and Planning Projects** — University of California, Irvine (Jan 2025)  
+  Credential ID: 0KKNEXZBUQCT  
+  Certificate: https://www.coursera.org/account/accomplishments/certificate/0KKNEXZBUQCT  
+
+- **Agile Project Management** — Google (Jan 2024)  
+  Credential ID: ZV9XD0BW3CUE  
+  Certificate: https://www.coursera.org/account/accomplishments/certificate/ZV9XD0BW3CUE  
+
+- **Product Management: An Introduction** — IBM (Jan 2024)  
+  Credential ID: MBV90QZUEACH  
+  Certificate: https://www.coursera.org/account/accomplishments/certificate/MBV90QZUEACH  
+
+- **Product Management: Building AI-Powered Products** — SkillUp EdTech (Jan 2024)  
+  Credential ID: UEN4URCFO3D6  
+  Certificate: https://www.coursera.org/account/accomplishments/records/UEN4URCFO3D6  
+
+- **Project Management Fundamentals** — Microsoft (Jan 2024)  
+  Credential ID: MODCDD1VOFCL  
+  *(No link provided in CV)*
+
+- **PMP® Certification (In Progress)** — Project Management Institute (PMI)
+
+- **Data Science and AI for Healthcare** — NASBA (Jun 2025)  
+  Certificate: https://www.coursera.org/account/accomplishments/records/LANVE5QMZU3I  
+
+- **Become an AI-Powered People Manager** — LinkedIn Learning (May 2025)  
+  Certificate:  
+  https://www.linkedin.com/learning/certificates/988e5c0992d66f6847516c42103025aaa0d303a7ed06ce204c4c7c4691bd2125  
+
+- **Microsoft Azure AI Essentials: Workloads and Machine Learning on Azure** — Microsoft (May 2025)  
+  *(No link provided in CV)*
+
+- **Vibe Coding with Cursor AI** — Cursor (May 2025)  
+  *(No link provided in CV)*
+
+- **Agentic AI and AI Agents: A Primer for Leaders** — Vanderbilt University (Mar 2025)  
+  Certificate: https://www.coursera.org/account/accomplishments/records/JDTLZLYYDZQ3  
+
+- **Agile Meets Design Thinking** — University of Virginia (Feb 2025)  
+  Certificate: https://www.coursera.org/account/accomplishments/verify/B1F995Q0JYQV  
+
+- **Digital Product Management: Modern Fundamentals** — University of Virginia, Darden (Feb 2025)  
+  Certificate: https://www.coursera.org/account/accomplishments/records/SI0Q41FBS0CM  
+
+- **Digital Product Management Specialization** — University of Virginia (Jan 2025)  
+  Program: https://www.coursera.org/specializations/uva-darden-digital-product-management  
+
+- **What is the Metaverse?** — Meta (Jan 2025)  
+  Certificate: https://www.coursera.org/account/accomplishments/verify/3T6CQDRO1N0N  
+
+- **Healthcare Organizations and the Health System (USA)** — Rutgers University (Jul 2025)  
+  Certificate: https://www.coursera.org/account/accomplishments/records/LANVE5QMZU3I  
+
+- **The Art of Persuasion** — Alfaisal University | KLD (Jul 2025)  
+  Certificate: https://www.coursera.org/account/accomplishments/records/LANVE5QMZU3I  
+
+- **Getting Started with Zoho CRM for Sales Reps** — Zoho Corporation (Sep 2025)  
+  *(No link provided in CV)*
+
+- **Fundamentals of Quantitative Modeling** — University of Pennsylvania (2024)  
+  Credential ID: IXCE3CNDBCYE  
+  Certificate: https://www.coursera.org/account/accomplishments/certificate/IXCE3CNDBCYE  
+
+- **Certificate of Contribution** — French University of Egypt  
+  *(No link provided in CV)*
+
 
 ---
 
