@@ -9,7 +9,8 @@ Specialist in **AI Solutions, Machine Learning, Cloud, 3D, XR, VR/AR, Metaverse,
 - **Email:** [SamirPhD@outlook.com](mailto:SamirPhD@outlook.com)  
 - **LinkedIn:** https://www.linkedin.com/in/mohamedsamirhassan/  
 - **ArtStation:** https://www.artstation.com/msamiir  
-- **ResearchGate:** https://www.researchgate.net/profile/Mohamed-Samir-Hassan  
+- **ResearchGate:** https://www.researchgate.net/profile/Mohamed-Samir-Hassan
+- **GitHUB:** https://github.com/MohamedSamirHassanPhD 
 
 ---
 
