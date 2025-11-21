@@ -99,7 +99,7 @@ Helwan University (2016 – 2024)
 ### **Postgraduate Diploma in Computer Science**  
 Menoufia University (2013 – 2015)
 
-### **Bachelor’s in Management Information Systems (MIS)**  
+### **Bachelor’s in Information Systems **  
 Egyptian Academy of Computers & IS (2009 – 2013)
 
 ---
