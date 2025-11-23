@@ -2,9 +2,8 @@
 # 👋 Mohamed Samir Hassan, MSc, PhD Researcher  
 **Principal Architect – AI Solutions | AI Lead | Metaverse & Immersive Technology Expert**  
 Specialist in **AI Solutions, Machine Learning, Cloud, 3D, XR, VR/AR, Metaverse, and Hologram Technologies**
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=800&color=FF1A1A&center=true&vCenter=true&width=1000&lines=>>>+NEW+AI+ACCOUNT+INITIALIZED+🔥;>>>+SYSTEM+BOOT+SEQUENCE+STARTED...;>>>+UPGRADING+TO+SAMIR+v2025+⚡;>>>+LOADING+ADVANCED+AI+MODULES...;>>>+PROFILE+READY+FOR+DEPLOYMENT+🚀" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=28&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=1200&lines=>>>+NEW+AI+ACCOUNT+INITIALIZED+<<<;WARNING:+SYSTEM+IS+BOOTING;PROFILE+IS+UNDER+CONSTRUCTION;AUTHORIZED+ACCESS+ONLY)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Systems-42+-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VR/AR%20Projects-28+-blue?style=for-the-badge" />
