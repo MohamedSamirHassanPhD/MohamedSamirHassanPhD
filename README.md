@@ -12,6 +12,11 @@ Specialist in **AI Solutions, Machine Learning, Cloud, 3D, XR, VR/AR, Metaverse,
 </p>
 
 ---
+<p align="center">
+  <a href="https://github.com/MohamedSamirHassanPhD?tab=followers">
+    <img src="https://img.shields.io/github/followers/MohamedSamirHassanPhD?label=Follow%20Me&style=social">
+  </a>
+</p>
 
 ## 🔗 Connect With Me  
 - **Email:** [SamirPhD@outlook.com](mailto:SamirPhD@outlook.com)  
