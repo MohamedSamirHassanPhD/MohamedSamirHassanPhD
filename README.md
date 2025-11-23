@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=700&color=36F4F4&background=00000000&center=true&vCenter=true&width=600&lines=Mohamed+Samir+✨)](https://git.io/typing-svg)
+
 # 👋 Mohamed Samir Hassan, MSc, PhD Researcher  
 **Principal Architect – AI Solutions | AI Lead | Metaverse & Immersive Technology Expert**  
 Specialist in **AI Solutions, Machine Learning, Cloud, 3D, XR, VR/AR, Metaverse, and Hologram Technologies**
