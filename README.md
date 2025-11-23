@@ -234,3 +234,18 @@ Arabic (Native) · English (Advanced) · German (Beginner)
 To build intelligent, scalable AI systems and immersive environments that bridge research with real-world impact — empowering industries, education, and digital transformation globally.
 
 ---
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSamirHassanPhD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSamirHassanPhD&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohamedSamirHassanPhD&theme=tokyonight&hide_border=true" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedSamirHassanPhD&theme=tokyonight&no-frame=true&no-bg=true&column=6" />
+</p>
+
