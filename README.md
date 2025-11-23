@@ -19,6 +19,32 @@ Specialist in **AI Solutions, Machine Learning, Cloud, 3D, XR, VR/AR, Metaverse,
 </p>
 
 ## 🔗 Connect With Me  
+
+<p align="center">
+
+  <a href="mailto:SamirPhD@outlook.com">
+    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohamedsamirhassan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.artstation.com/msamiir">
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" />
+  </a>
+
+  <a href="https://www.researchgate.net/profile/Mohamed-Samir-Hassan">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/MohamedSamirHassanPhD">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</p>
+
+## 🔗 Connect With Me  
 - **Email:** [SamirPhD@outlook.com](mailto:SamirPhD@outlook.com)  
 - **LinkedIn:** https://www.linkedin.com/in/mohamedsamirhassan/  
 - **ArtStation:** https://www.artstation.com/msamiir  
