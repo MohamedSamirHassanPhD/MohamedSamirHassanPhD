@@ -3,18 +3,11 @@
 **Principal Architect – AI Solutions | AI Lead | Metaverse & Immersive Technology Expert**  
 Specialist in **AI Solutions, Machine Learning, Cloud, 3D, XR, VR/AR, Metaverse, and Hologram Technologies**
 
-## 📊 GitHub Statistics
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSamirHassanPhD&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedSamirHassanPhD&theme=tokyonight&hide_border=true" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedSamirHassanPhD&theme=tokyonight&no-frame=true&no-bg=true&column=6" />
+  <img src="https://img.shields.io/badge/AI%20Systems-42+-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VR/AR%20Projects-28+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployments-50+-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Years%20Experience-12+-orange?style=for-the-badge" />
 </p>
 
 ---
