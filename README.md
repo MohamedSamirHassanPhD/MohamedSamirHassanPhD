@@ -6,10 +6,10 @@
 Specialist in **AI Solutions, Machine Learning, Cloud, 3D, XR, VR/AR, Metaverse, and Hologram Technologies**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Systems-**∞**-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VR/AR%20Projects-**∞**-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployments-**∞**-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Years%20Experience-**∞**-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Systems-∞-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VR/AR%20Projects-∞-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployments-∞-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Years%20Experience-∞-orange?style=for-the-badge" />
 </p>
 
 ---
