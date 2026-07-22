@@ -1,278 +1,106 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=25&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=1200&lines=>>+BOOTING+HYPER-INTELLIGENCE+SYSTEM...;>>+Loading+Neural+Modules+[OK];>>+Calibrating+Sensors+[OK];>>+Decrypting+AI+Core+[OK];>>+Establishing+Secure+Channel...;>>+Access+Level:+ULTRA+AUTHORIZED;>>+ACCESS+GRANTED+%E2%86%92+MOHAMED+SAMIR+HASSAN;>>+WELCOME+TO+MY+PROFILE+%F0%9F%94%A5%F0%9F%9A%80)](https://git.io/typing-svg)
+# Mohamed Samir Hassan, MSc
 
+**Principal AI Solutions Architect & Technical Director** · PhD Researcher (AI Immersive Solutions) · Agentic AI · Multi-Agent Systems · Enterprise AI Architecture
 
-# 👋 Mohamed Samir Hassan, MSc, PhD Researcher  
-**Principal Architect – AI Solutions | AI Lead | Metaverse & Immersive Technology Expert**  
-Specialist in **AI Solutions, Machine Learning, Cloud, 3D, XR, VR/AR, Metaverse, and Hologram Technologies**
+Maadi, Cairo, Egypt · Open to Remote & Relocation
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Systems-∞-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VR/AR%20Projects-∞-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployments-∞-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Years%20Experience-12-orange?style=for-the-badge" />
+<p align="left">
+  <a href="mailto:SamirPhD@outlook.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=maildotru&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamedsamirhassan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Mohamed-Samir-Hassan"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
+  <a href="https://www.artstation.com/msamiir"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white" /></a>
 </p>
 
----
-<p align="center">
-  <a href="https://github.com/MohamedSamirHassanPhD?tab=followers">
-    <img src="https://img.shields.io/github/followers/MohamedSamirHassanPhD?label=Follow%20Me&style=social">
-  </a>
-</p>
+## About
 
-## 🔗 Connect With Me  
+AI Solutions Architect and Technical Director with 13+ years leading AI transformation, enterprise architecture, and immersive technology innovation across Saudi Arabia, the UAE, Egypt, Europe, and the USA. Experience spans Agentic AI, LLMs, Retrieval-Augmented Generation (RAG), multi-agent systems, MLOps, and cloud-native architecture (AWS, Azure), alongside a full-stack and XR/3D engineering background. PhD researcher at Helwan University investigating AI immersive solutions, LLMs, and small language models (SLMs), bridging applied research with real-world deployment in healthcare, agriculture, and enterprise systems.
 
-<p align="center">
+## Featured Projects
 
-  <a href="mailto:SamirPhD@outlook.com">
-    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+A working portfolio of independent projects demonstrating the above — each is a tested, documented, runnable codebase (see individual READMEs for architecture and setup).
 
-  <a href="https://www.linkedin.com/in/mohamedsamirhassan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+**Agentic AI & LLM Systems**
+- [agentic-rag-orchestrator](https://github.com/MohamedSamirHassanPhD/agentic-rag-orchestrator) — Multi-agent RAG service (Router → Retriever → Synthesizer → Critic) built with LangGraph + LangChain + FastAPI
+- [agri-edge-advisory-slm](https://github.com/MohamedSamirHassanPhD/agri-edge-advisory-slm) — Edge-deployable, SLM-ready advisory chatbot architected for low-connectivity regions (offline-first, store-and-forward sync)
 
-  <a href="https://www.artstation.com/msamiir">
-    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" />
-  </a>
+**AI for Agriculture (AgriTech)**
+- [agritech-crop-vision](https://github.com/MohamedSamirHassanPhD/agritech-crop-vision) — Computer-vision microservice for crop disease/weed detection, precision-spraying ready
+- [variable-rate-sprayer](https://github.com/MohamedSamirHassanPhD/variable-rate-sprayer) — Converts weed/disease detection density into variable-rate spray prescription maps
+- [autonomous-farm-navigation](https://github.com/MohamedSamirHassanPhD/autonomous-farm-navigation) — Full-coverage path planning + reactive obstacle avoidance for autonomous farm rovers
+- [gps-field-zoning](https://github.com/MohamedSamirHassanPhD/gps-field-zoning) — GPS/GeoJSON field boundary parsing into precision-ag management zones
+- [digital-twin-farm-sim](https://github.com/MohamedSamirHassanPhD/digital-twin-farm-sim) — Digital twin of a field: crop growth model, IoT sensor simulation, sensor-fault anomaly detection
+- [farm-drone-ndvi](https://github.com/MohamedSamirHassanPhD/farm-drone-ndvi) — Drone/satellite NDVI vegetation-health analysis and false-color mapping
+- [crop-yield-forecaster](https://github.com/MohamedSamirHassanPhD/crop-yield-forecaster) — Pre-harvest yield forecasting with model comparison and calibrated prediction intervals
+- [crop-rotation-optimizer](https://github.com/MohamedSamirHassanPhD/crop-rotation-optimizer) — Constraint-based crop rotation planner optimizing profit and soil nitrogen health
+- [vertical-farm-climate-control](https://github.com/MohamedSamirHassanPhD/vertical-farm-climate-control) — PID climate control + energy-efficient setpoint optimizer for vertical farms
+- [farm-iot-gateway](https://github.com/MohamedSamirHassanPhD/farm-iot-gateway) — MQTT-ready IoT edge gateway aggregating farm sensors with anomaly detection
+- [farm-data-mlops-pipeline](https://github.com/MohamedSamirHassanPhD/farm-data-mlops-pipeline) — MLOps pipeline for agri yield models: training, experiment tracking, PSI-based drift monitoring
+- [agri-supply-chain-ledger](https://github.com/MohamedSamirHassanPhD/agri-supply-chain-ledger) — Farm-to-fork produce traceability ledger (hash chain), TypeScript + Express
 
-  <a href="https://www.researchgate.net/profile/Mohamed-Samir-Hassan">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
-  </a>
+**Computer Vision, XR & Research**
+- [mesh-compress-3d](https://github.com/MohamedSamirHassanPhD/mesh-compress-3d) — Dependency-free 3D mesh compression toolkit (vertex quantization + connectivity delta-encoding), based on the author's MSc/Springer research
+- [healthcare-vr-analytics](https://github.com/MohamedSamirHassanPhD/healthcare-vr-analytics) — Analytics for VR/immersive clinical-training sessions: pre/post outcomes, effect size, learning curves
 
-  <a href="https://github.com/MohamedSamirHassanPhD">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+## Experience
 
-</p>
+**Lead AI Architect & Full-Stack Automation Engineer** — StaffDocs, Remote (USA) · Jul 2025 – Jul 2026
+Architected AI automation pipelines (Python/FastAPI/Azure Functions) for healthcare-staffing matching and provider scoring; built forecasting microservices over 10GB+ datasets; led the technical migration from Zoho CRM to Microsoft 365.
 
+**AI Solutions Architect & Technical Director** — VEEM Solutions, Jeddah, KSA · May 2024 – Jul 2025
+Directed architecture and delivery of 5+ enterprise AI products (multimodal creative studio, RAG-based compliance engine, multi-agent competitive-intelligence platform) on LangChain, Azure OpenAI, and SLMs; built a 15+ microservice containerized AI studio.
 
----
+**Senior AI & XR Solutions Architect** — AVR Labs, Dubai, UAE · Apr 2024 – Nov 2024
+Orchestrated AI-powered AR/VR platforms for education and entertainment; standardized API contracts and testing pipelines, cutting delivery cycles by 40%.
 
-## 🧭 Summary  
-I am an innovative **AI Engineer, AI Solution Architect, and AI Project Manager** with over **12 years of international experience** building intelligent, scalable AI systems across:
+**Senior AI Engineer & Metaverse Solutions Architect** — VVERSE, Dubai, UAE · Nov 2023 – Apr 2024
+Engineered metaverse cloud solutions and automated 3D authoring pipelines for government digital-transformation projects.
 
-- Machine Learning & Deep Learning  
-- LLMs & Agentic AI  
-- Computer Vision  
-- Cloud & DevOps  
-- VR, AR, XR, and Metaverse  
-- 3D Development and Immersive Technologies  
-- Web/Mobile development  
-- Automation and Data Engineering  
+**Technical Director & Full-Stack Software Engineer** — MOJOMOTO, Copenhagen, Denmark · Sep 2022 – Nov 2023
+Directed AI/AR/Web3 product lifecycles for a digital-fashion startup; led a distributed team of 8 engineers across 3 countries.
 
-Pursuing a **PhD at Helwan University** focusing on **MSHR++**, a novel architecture combining **Small Language Models (SLMs)** with **Task-Ready Networks (TRNs)** for low-resource multi-agent environments.
+**Lead VR/XR Engineer & Software Developer** — Simservices GmbH, Düren, Germany · Mar 2021 – Sep 2022
+Developed high-fidelity VR flight simulators (Unity/Unreal) with custom GPU shaders for European aerospace training standards.
 
----
+**Founder, CEO & Full-Stack Developer** — TICONERS EdTech Startup, Cairo, Egypt · Apr 2018 – Oct 2020
+Founded and scaled an AI/VR/AR EdTech venture serving 10+ institutional clients.
 
-## 🏢 Experience
+*Full history, earlier roles, and publications available on request or via [ResearchGate](https://www.researchgate.net/profile/Mohamed-Samir-Hassan) and [LinkedIn](https://www.linkedin.com/in/mohamedsamirhassan/).*
 
-### **Application Analyst & AI Lead — StaffDocs (USA, Remote)**  
-**Jul 2025 – Oct 2025**  
-- Built AI pipelines for provider scoring, NPI matching, classification, and compliance.  
-- Processed national datasets >10GB using Python, Azure ML, Pandas.  
-- Migrated Zoho CRM → Microsoft 365 (Outlook, OneDrive, Intune).  
-- Created forecasting systems deployed via **FastAPI** + **Azure Functions**.  
-- Automated workflows improving accuracy, compliance, and scalability.
+## Education
 
----
+- **PhD Researcher — AI Immersive Solutions**, Faculty of Computers & AI, Helwan University · Sep 2024 – Present
+- **MSc — 3D Mesh Compression & AI**, Helwan University · Sep 2016 – Jan 2024
+- **Postgraduate Diploma — Computer Science**, Menoufia University · Sep 2013 – Jul 2015
+- **BSc — Management Information Systems**, Egyptian Academy for Computer Science & Information Systems · Sep 2009 – Jun 2013
 
-### **AI Project Manager | Solutions Architect | Technical Supervisor — VEEM Solutions (Saudi Arabia)**  
-**May 2024 – Jul 2025**  
-- Designed **enterprise AI tools** across imaging, video, audio, and compliance.  
-- Built **Vminds.ai**, **Dualize.ai**, **GlassHub**, **Oqail Agent**, **PixiCamel**, **Fahy Game**, **Shrwd.ai**.  
-- Integrated **LangChain, Azure OpenAI, HuggingFace, Qwen-VL, FastAPI, Docker**.  
-- Created 15+ multimodal tools (FaceSwap, LipSync, Cartoonize, Relighting…).  
-Website: https://veem.life/
+## Selected Publications
 
----
+- *Effect of VR Application on Pain Intensity, Anxiety Level & Patient Satisfaction during IUD Insertion* — Kafr El Sheikh University Journal, 2026
+- *Effect of AI-Based Holographic Learning on Nursing Students' Competence in Leopold's Maneuvers* — International Nursing Journal, 2025
+- *Effect of VR Technology for Pushing during Second Stage of Labour on Birth Outcomes* — Obstetrics & Gynaecology Research, 2024
+- *An Improved Compression Method for 3D Photogrammetry Scanned High-Polygon Models for VR, AR & 3D Printing* — Springer ITAF (Conference Winner), 2020
 
-### **Lead Solutions Architect & Team Leader — AVR Labs (UAE)**  
-**Apr 2024 – Nov 2024**  
-- Led VR/AR pipelines for education & entertainment.  
-- Optimized immersive environments and supervised cross-functional teams.  
-Website: https://avrlabs.io/
+## Core Competencies
 
----
+**AI/ML & Agentic Systems:** LLMs · RAG Pipelines · Multi-Agent Frameworks (LangGraph, LangChain) · SLMs for Edge · Computer Vision (YOLO, OpenCV) · PyTorch · TensorFlow · MLflow
 
-### **Lead 3D Metaverse Expert — VVERSE (UAE)**  
-**Nov 2023 – Apr 2024**  
-- Built Metaverse ecosystems and optimized 3D model pipelines.  
-Website: https://www.vverse.co/
+**Cloud & DevOps:** Azure (ML Studio, AI Foundry, Functions) · AWS (EC2, S3, Lambda, SageMaker) · Docker · Kubernetes · CI/CD (GitHub Actions)
 
----
+**Full-Stack & Web:** Python · FastAPI · TypeScript · React · Node.js · REST/GraphQL APIs · PostgreSQL · MongoDB
 
-### **Technical Director — MOJOMOTO (Denmark)**  
-**Sep 2022 – Nov 2023**  
-- Led AR/NFT fashion and decentralized apps.  
-Website: https://www.mojomoto.io/
+**XR / 3D:** Unity (C#) · Unreal Engine (C++) · 3ds Max · Blender · AR/VR SDKs
 
----
+**Languages:** Python · C++ · C# · Java · JavaScript · TypeScript · Dart
 
-### **Lead 3D Artist — Simservices GmbH (Germany)**  
-**2021 – 2022**  
-- Built hyper-realistic VR flight simulators with Unreal Engine.  
-Website: https://simservices.net/
+## Awards
 
----
+- Best Innovative AI Solution — VEEM Solutions (2024)
+- Springer ITAF Conference Winner — 3D Photogrammetry Compression Research (2020)
+- 1st Place, National Schools Programming Competition — Egypt (2007)
 
-### **Founder & CEO — TICONERS (Egypt)**  
-**2018 – 2021**  
-- Created AR games, VR apps, and hologram-based education tools.  
-Facebook: https://www.facebook.com/Ticoners/
-
----
-
-## 🎓 Education  
-### **PhD Researcher in AI Immersive Solutions**  
-Faculty of Computers & AI, Helwan University (2024 – Present)  
-Focus: **MSHR++ — An Intelligent Self-Improving Router using SLMs + TRNs**
-
-### **Master’s in 3D Mesh Compression & AI**  
-Helwan University (2016 – 2024)
-
-### **Postgraduate Diploma in Computer Science**  
-Menoufia University (2013 – 2015)
-
-### **Bachelor’s in Information Systems **  
-Egyptian Academy of Computers & IS (2009 – 2013)
-
----
-
-## 🏅 Certifications (Selected & Verified)
-
-- **Google AI Essentials** — Google (Jan 2025)  
-  Credential ID: AI8PI1SXGYA1  
-  Certificate: https://www.coursera.org/account/accomplishments/records/AI8PI1SXGYA1  
-
-- **Initiating and Planning Projects** — University of California, Irvine (Jan 2025)  
-  Credential ID: 0KKNEXZBUQCT  
-  Certificate: https://www.coursera.org/account/accomplishments/certificate/0KKNEXZBUQCT  
-
-- **Agile Project Management** — Google (Jan 2024)  
-  Credential ID: ZV9XD0BW3CUE  
-  Certificate: https://www.coursera.org/account/accomplishments/certificate/ZV9XD0BW3CUE  
-
-- **Product Management: An Introduction** — IBM (Jan 2024)  
-  Credential ID: MBV90QZUEACH  
-  Certificate: https://www.coursera.org/account/accomplishments/certificate/MBV90QZUEACH  
-
-- **Product Management: Building AI-Powered Products** — SkillUp EdTech (Jan 2024)  
-  Credential ID: UEN4URCFO3D6  
-  Certificate: https://www.coursera.org/account/accomplishments/records/UEN4URCFO3D6  
-
-- **Project Management Fundamentals** — Microsoft (Jan 2024)  
-  Credential ID: MODCDD1VOFCL  
-  
-
-- **PMP® Certification (In Progress)** — Project Management Institute (PMI)
-
-- **Data Science and AI for Healthcare** — NASBA (Jun 2025)  
-  Certificate: https://www.coursera.org/account/accomplishments/records/LANVE5QMZU3I  
-
-- **Become an AI-Powered People Manager** — LinkedIn Learning (May 2025)  
-  Certificate:  
-  https://www.linkedin.com/learning/certificates/988e5c0992d66f6847516c42103025aaa0d303a7ed06ce204c4c7c4691bd2125  
-
-- **Microsoft Azure AI Essentials: Workloads and Machine Learning on Azure** — Microsoft (May 2025)  
-
-
-- **Vibe Coding with Cursor AI** — Cursor (May 2025)  
-
-
-- **Agentic AI and AI Agents: A Primer for Leaders** — Vanderbilt University (Mar 2025)  
-  Certificate: https://www.coursera.org/account/accomplishments/records/JDTLZLYYDZQ3  
-
-- **Agile Meets Design Thinking** — University of Virginia (Feb 2025)  
-  Certificate: https://www.coursera.org/account/accomplishments/verify/B1F995Q0JYQV  
-
-- **Digital Product Management: Modern Fundamentals** — University of Virginia, Darden (Feb 2025)  
-  Certificate: https://www.coursera.org/account/accomplishments/records/SI0Q41FBS0CM  
-
-- **Digital Product Management Specialization** — University of Virginia (Jan 2025)  
-  Program: https://www.coursera.org/specializations/uva-darden-digital-product-management  
-
-- **What is the Metaverse?** — Meta (Jan 2025)  
-  Certificate: https://www.coursera.org/account/accomplishments/verify/3T6CQDRO1N0N  
-
-- **Healthcare Organizations and the Health System (USA)** — Rutgers University (Jul 2025)  
-  Certificate: https://www.coursera.org/account/accomplishments/records/LANVE5QMZU3I  
-
-- **The Art of Persuasion** — Alfaisal University | KLD (Jul 2025)  
-  Certificate: https://www.coursera.org/account/accomplishments/records/LANVE5QMZU3I  
-
-- **Getting Started with Zoho CRM for Sales Reps** — Zoho Corporation (Sep 2025)  
-
-
-- **Fundamentals of Quantitative Modeling** — University of Pennsylvania (2024)  
-  Credential ID: IXCE3CNDBCYE  
-  Certificate: https://www.coursera.org/account/accomplishments/certificate/IXCE3CNDBCYE  
-
-- **Certificate of Contribution** — French University of Egypt  
-
-
-
----
-
-## 🧠 Technical Skills
-
-### **Programming**
-Python · C# · JavaScript · TypeScript · Dart · SQL · MATLAB  
-
-### **AI & ML**
-TensorFlow · PyTorch · Scikit-learn · HuggingFace · LangChain · RAG · Agents
-
-### **Cloud & DevOps**
-Azure ML · Azure AI Foundry · Azure Functions · ACR · VMs · Docker · GitHub Actions
-
-### **Computer Vision**
-OpenCV · YOLO · image segmentation · real-time detection
-
-### **Data Engineering**
-Pandas · SQL · ETL · Automation Pipelines · Large dataset processing (10GB+)
-
-### **XR / 3D / Immersive Tech**
-Unity · Unreal Engine · 3D Studio Max · Blender · TouchDesigner
-
-### **API Development**
-FastAPI · Gradio · Streamlit · RESTful APIs
-
-### **Project Management**
-Agile · Scrum · Roadmaps · Team Leadership · Risk Management
-
-### **Business Skills**
-Cross-functional leadership · Product strategy · Technical supervision
-
----
-
-## 🏆 Awards & Achievements
-- **1st Place — National Programming Competition (Egypt)**  
-- **Best AI Solution — VEEM Solutions (2024)**  
-- **Springer ITAF Conference Winner** — “Optimized Compression of High-Polygon Models for VR”
-
----
-
-## 🌍 Languages  
-Arabic (Native) · English (Advanced) · German (Beginner)
-
-
----
-
-## ⭐ Vision  
-To build intelligent, scalable AI systems and immersive environments that bridge research with real-world impact — empowering industries, education, and digital transformation globally.
-
----
-## 📊 GitHub Statistics
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSamirHassanPhD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSamirHassanPhD&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSamirHassanPhD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSamirHassanPhD&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedSamirHassanPhD&theme=tokyonight&hide_border=true" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedSamirHassanPhD&theme=tokyonight&no-frame=true&no-bg=true&column=6" />
-</p>
-
