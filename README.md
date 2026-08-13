@@ -15,32 +15,6 @@ Maadi, Cairo, Egypt · Open to Remote & Relocation
 
 AI Solutions Architect and Technical Director with 13+ years leading AI transformation, enterprise architecture, and immersive technology innovation across Saudi Arabia, the UAE, Egypt, Europe, and the USA. Experience spans Agentic AI, LLMs, Retrieval-Augmented Generation (RAG), multi-agent systems, MLOps, and cloud-native architecture (AWS, Azure), alongside a full-stack and XR/3D engineering background. PhD researcher at Helwan University investigating AI immersive solutions, LLMs, and small language models (SLMs), bridging applied research with real-world deployment in healthcare, agriculture, and enterprise systems.
 
-## Featured Projects
-
-A working portfolio of independent projects demonstrating the above — each is a tested, documented, runnable codebase (see individual READMEs for architecture and setup).
-
-**Agentic AI & LLM Systems**
-- [agentic-rag-orchestrator](https://github.com/MohamedSamirHassanPhD/agentic-rag-orchestrator) — Multi-agent RAG service (Router → Retriever → Synthesizer → Critic) built with LangGraph + LangChain + FastAPI
-- [agri-edge-advisory-slm](https://github.com/MohamedSamirHassanPhD/agri-edge-advisory-slm) — Edge-deployable, SLM-ready advisory chatbot architected for low-connectivity regions (offline-first, store-and-forward sync)
-
-**AI for Agriculture (AgriTech)**
-- [agritech-crop-vision](https://github.com/MohamedSamirHassanPhD/agritech-crop-vision) — Computer-vision microservice for crop disease/weed detection, precision-spraying ready
-- [variable-rate-sprayer](https://github.com/MohamedSamirHassanPhD/variable-rate-sprayer) — Converts weed/disease detection density into variable-rate spray prescription maps
-- [autonomous-farm-navigation](https://github.com/MohamedSamirHassanPhD/autonomous-farm-navigation) — Full-coverage path planning + reactive obstacle avoidance for autonomous farm rovers
-- [gps-field-zoning](https://github.com/MohamedSamirHassanPhD/gps-field-zoning) — GPS/GeoJSON field boundary parsing into precision-ag management zones
-- [digital-twin-farm-sim](https://github.com/MohamedSamirHassanPhD/digital-twin-farm-sim) — Digital twin of a field: crop growth model, IoT sensor simulation, sensor-fault anomaly detection
-- [farm-drone-ndvi](https://github.com/MohamedSamirHassanPhD/farm-drone-ndvi) — Drone/satellite NDVI vegetation-health analysis and false-color mapping
-- [crop-yield-forecaster](https://github.com/MohamedSamirHassanPhD/crop-yield-forecaster) — Pre-harvest yield forecasting with model comparison and calibrated prediction intervals
-- [crop-rotation-optimizer](https://github.com/MohamedSamirHassanPhD/crop-rotation-optimizer) — Constraint-based crop rotation planner optimizing profit and soil nitrogen health
-- [vertical-farm-climate-control](https://github.com/MohamedSamirHassanPhD/vertical-farm-climate-control) — PID climate control + energy-efficient setpoint optimizer for vertical farms
-- [farm-iot-gateway](https://github.com/MohamedSamirHassanPhD/farm-iot-gateway) — MQTT-ready IoT edge gateway aggregating farm sensors with anomaly detection
-- [farm-data-mlops-pipeline](https://github.com/MohamedSamirHassanPhD/farm-data-mlops-pipeline) — MLOps pipeline for agri yield models: training, experiment tracking, PSI-based drift monitoring
-- [agri-supply-chain-ledger](https://github.com/MohamedSamirHassanPhD/agri-supply-chain-ledger) — Farm-to-fork produce traceability ledger (hash chain), TypeScript + Express
-
-**Computer Vision, XR & Research**
-- [mesh-compress-3d](https://github.com/MohamedSamirHassanPhD/mesh-compress-3d) — Dependency-free 3D mesh compression toolkit (vertex quantization + connectivity delta-encoding), based on the author's MSc/Springer research
-- [healthcare-vr-analytics](https://github.com/MohamedSamirHassanPhD/healthcare-vr-analytics) — Analytics for VR/immersive clinical-training sessions: pre/post outcomes, effect size, learning curves
-
 ## Experience
 
 **Lead AI Architect & Full-Stack Automation Engineer** — StaffDocs, Remote (USA) · Jul 2025 – Jul 2026
